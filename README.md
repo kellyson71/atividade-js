@@ -1,29 +1,3 @@
-> [!IMPORTANT]
-> **Repositório Central da Disciplina (DSW):**  
-> Todas as atividades desta matéria foram reunidas, padronizadas e documentadas no repositório oficial:  
-> 🔗 [**kellyson71/Desenvolvimento-de-Sistemas-Web**](https://github.com/kellyson71/Desenvolvimento-de-Sistemas-Web)  
-> *(Acesse o link acima para visualizar o índice completo de atividades do curso de ATV-001 a ATV-007)*
+# Repositório com todas as atividades da disciplina
 
----
-
-# Atividade de JavaScript
-
-**Disciplina:** Desenvolvimento de Sistemas Web  
-**Professor:** Irlan Arley Targino Moreira  
-**Aluno:** Kellyson Medeiros  
-
-Este repositório contém a resolução de todas as questões da lista de exercícios de JavaScript, acompanhada do arquivo em Word e PDF.
-
-## Conteúdo do repositório
-
-- `atividade.js`: Código-fonte completo com a implementação de todas as funções, classes e testes.
-- `Atividade_JS.docx`: Documento formatado no Word.
-- `Atividade_JS.pdf`: Documento exportado em formato PDF.
-
-## Como executar
-
-Para testar a execução de todas as questões no terminal utilizando o Node.js:
-
-```bash
-node atividade.js
-```
+🔗 https://github.com/kellyson71/Desenvolvimento-de-Sistemas-Web
