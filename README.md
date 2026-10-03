@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **Repositório Central da Disciplina (DSW):**  
+> Todas as atividades desta matéria foram reunidas, padronizadas e documentadas no repositório oficial:  
+> 🔗 [**kellyson71/Desenvolvimento-de-Sistemas-Web**](https://github.com/kellyson71/Desenvolvimento-de-Sistemas-Web)  
+> *(Acesse o link acima para visualizar o índice completo de atividades do curso de ATV-001 a ATV-007)*
+
+---
+
 # Atividade de JavaScript
 
 **Disciplina:** Desenvolvimento de Sistemas Web  
